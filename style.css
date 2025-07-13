@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.converter {
+    background-color: rgb(216, 203, 203);
+    padding: 20px 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: inline-block;
+}
+
+input, select, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1em;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.3em;
+    color: #007BFF;
+}
